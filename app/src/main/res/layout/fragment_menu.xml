@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="elljes16.woact.no.tictactoe.fragments.MenuFragment">
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnSingle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnSingleplayer" />
+
+        <Button
+            android:id="@+id/btnMulti"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnMultiplayer" />
+
+        <Button
+            android:id="@+id/btnHigh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnHighscores" />
+
+        <Button
+            android:id="@+id/btnRequirements"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btnRequirements" />
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+</FrameLayout>

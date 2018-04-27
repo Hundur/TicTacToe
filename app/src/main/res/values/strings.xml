@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="btnSingleplayer">Singleplayer</string>
+    <string name="btnMultiplayer">Multiplayer</string>
+    <string name="btnHighscores">Highscores</string>
+    <string name="btnPlay">Play!</string>
+    <string name="btnMenu">Menu</string>
+    <string name="btnPlayAgain">Play again</string>
+    <string name="btnLocalDatabase">Add to local database</string>
+    <string name="btnRequirements">Requirements</string>
+
+    <string name="txtTitle">Tic Tac Toe</string>
+    <string name="txtStatsTitle">Statistics</string>
+    <string name="txtPlayerOne">Player 1</string>
+    <string name="txtPlayerTwo">Player 2</string>
+
+    <string name="txtTimeDefault">00:00</string>
+</resources>

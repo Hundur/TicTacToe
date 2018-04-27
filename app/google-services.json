@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "533448428341",
+    "firebase_url": "https://tictactoe-5846d.firebaseio.com",
+    "project_id": "tictactoe-5846d",
+    "storage_bucket": "tictactoe-5846d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533448428341:android:181ba8797ea5be64",
+        "android_client_info": {
+          "package_name": "app.test.elljes16.kristiania.no.testapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533448428341-m3c144voki3areuifkclbgbhdnffq7hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.test.elljes16.kristiania.no.testapplication",
+            "certificate_hash": "496e7256f17f827fe249ef980c85a1897969115c"
+          }
+        },
+        {
+          "client_id": "533448428341-d4cdsb504413n3f60a813q4b39bs6sl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl8qiyQHTRByp4kUfdiBVOB_hsaiQB1ZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533448428341-d4cdsb504413n3f60a813q4b39bs6sl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533448428341:android:8eb0392e350f7f38",
+        "android_client_info": {
+          "package_name": "elljes16.woact.no.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533448428341-32fj9t17u69hp90h9i8u0mrnjj7sjqtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elljes16.woact.no.tictactoe",
+            "certificate_hash": "496e7256f17f827fe249ef980c85a1897969115c"
+          }
+        },
+        {
+          "client_id": "533448428341-d4cdsb504413n3f60a813q4b39bs6sl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl8qiyQHTRByp4kUfdiBVOB_hsaiQB1ZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533448428341-d4cdsb504413n3f60a813q4b39bs6sl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
